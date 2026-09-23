@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fee9b71ae6536b4e9d2c171c",
+  "owner": "ubwphwap",
+  "repo": "page-4fafae073b48b6eff4b158b0",
+  "title": "Eden",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4fafae073b48b6eff4b158b0",
+      "a": "Eden",
+      "b": "稳定全球clash加速器",
+      "entity": "Eden",
+      "brand": "Eden",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a8897da8b52f46857e51eea2b2168c2712a6840956aa388b48fb9550f4791aca",
+      "content": {
+        "primary_entity": "Eden",
+        "keyword1": "Eden",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备与系统选择适配客户端，再导入 Eden 订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对比套餐与设备数量，选好周期后导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 Eden",
+          "AI_DESCRIPTION": "，Eden 提供按月与按年计费的基础版、旗舰版和团队版，分别覆盖 3 台、5 台和 20 台设备同时在线，每月流量从 100GB 到 1000GB。旗舰版面向游戏与流媒体场景，提供 IPLC 专线节点与优先工单支持；团队版支持企业定制路由和高带宽节点。客户端覆盖 Clash 常见发行版，按设备平台选择后导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "围绕套餐差异、设备数量和订阅周期整理选择要点。",
+          "AI_FEATURES_TITLE": "Eden 选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合个人日常浏览与轻量流媒体；旗舰版每月 300GB、5 台设备，增加 IPLC 专线节点和优先工单支持。",
+          "AI_FEATURE_TEXT_2": "按年付比按月付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，流量与设备权益不变，长期使用可优先考虑年付。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持企业定制路由和专属客户经理，适合小型团队或多设备家庭统一管理。",
+          "AI_FEATURE_TITLE_1": "套餐档位",
+          "AI_FEATURE_TITLE_2": "周期与价格",
+          "AI_FEATURE_TITLE_3": "团队多设备",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成 Eden 配置。",
+          "AI_GUIDE_TITLE": "配置三步",
+          "AI_HERO_INTRO": "Eden 提供多档跨境网络加速订阅，按月或按年计费，覆盖 3 至 20 台设备同时在线，流量从 100GB 到 1000GB，并按套餐提供流媒体解锁、IPLC 专线或企业定制路由等权益。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "月付年付灵活计费",
+          "AI_HIGHLIGHT_3": "支持多设备同时在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数量和流量需求挑选。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数量和是否需要 IPLC 专线或企业路由，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，Clash 常见发行版可按平台选择，团队版需确认 20 台设备的分配方式。",
+          "AI_STEP_TEXT_3": "按所选客户端文档导入 Eden 订阅配置，检查节点列表、流量与设备数是否符合套餐说明后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "Eden 加速订阅",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB/3 台设备，适合手机或笔记本轻度使用。旗舰版每月 300GB/5 台设备，增加 IPLC 专线节点，更适合游戏和流媒体。团队版每月 1000GB/20 台设备，适合多人协作。",
+          "AI_FAQ_ANSWER_2": "在支持 Clash 的客户端里订阅地址只需粘贴一次，客户端会自动同步更新，新增节点与线路变化会随订阅自动刷新，无需重复手动添加。",
+          "AI_FAQ_ANSWER_3": "套餐对同时在线设备数有区分：基础版 3 台、旗舰版 5 台、团队版 20 台。可在不同设备上分别安装客户端登录同一订阅，超出数量会提示断开。",
+          "AI_FAQ_ANSWER_4": "月付适合临时或短期需求，年付折合每月更低，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。有长期使用计划时年付更划算。",
+          "AI_FAQ_ANSWER_5": "修改订阅配置后重新在客户端导入更新即可。如果仅节点切换，客户端刷新订阅就能同步到最新线路，不需要重新购买或重新注册账号。",
+          "AI_FAQ_QUESTION_1": "三档套餐在流量和设备数上有什么区别？",
+          "AI_FAQ_QUESTION_2": "订阅地址导入客户端后需要重复添加吗？",
+          "AI_FAQ_QUESTION_3": "同一账号能在多少台设备上同时使用？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_5": "更换设备或修改订阅配置后需要重新购买吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vpycmcc.cn",
+    "host": "vpycmcc.cn"
+  },
+  "file_hashes": {
+    "index.html": "b9b2b02621b02eb5434e2d7eff4969463fa6eb307fd58e747872dfc34d782dad",
+    "sitemap.xml": "b094e2d800adce96a54efed9935ffeda1dca6c5bc9fb2400e9d59d44d45e1aec",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f4164e516e59ddc0c64b92029cfc6300685581baa259c75fbd9328a688667a25",
+    "robots.txt": "7d2bd090a5c7ee79b81469eef4e2675e9761a0677ede8e0c9d3ea8e5c4773782",
+    "c8595003faa99ac5fcc8d2f5ae1cf8d1.txt": "3d8e3c715e5e6bc71a5c03fc24d64881e8043cc70402e8997d54db748ce78eb4"
+  },
+  "revision": "a80c7dda5ad218c5bef509f9c8c4afca7312b665f8ad01d5d16610cd6a6b52dc"
+}

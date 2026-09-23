@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vpycmcc.cn/sitemap.xml
